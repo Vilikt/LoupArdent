@@ -1,0 +1,7 @@
+/oconsole.spec
+/.idea
+/__pycache__
+/build
+/venv
+/main.spec
+/classes/__pycache__/*.pyc
